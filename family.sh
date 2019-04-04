@@ -1,0 +1,16 @@
+mkdir family
+cd family
+mkdir father
+cd father
+mkdir son
+cd son
+touch simple.txt
+cd ..
+cd ..
+mkdir mother
+cd mother
+mkdir daughter
+cd daugther
+touch complicated.txt
+cd ..
+cd ..
